@@ -7,5 +7,5 @@ def get_html(url):
         response.raise_for_status()
         return response.text
     except requests.RequestsException as e:
-        print(f"[Error] Failed to fetur {url}: {e}")
+        print(f"[Error] Failed to fetch {url}: {e}")
         return None
