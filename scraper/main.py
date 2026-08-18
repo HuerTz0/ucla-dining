@@ -1,0 +1,26 @@
+from config import MENU_URL
+from fetcher import get_html
+from parser import parse_main_menu
+from detail_scraper import parse_item_nutrtion
+from storage import save_data
+
+def run():
+    print("Fetching Menu")
+    main_html = get_html(MENU_URL)
+    items = parse_main_menu(main_html)
+    print(f"Found {len(items)} items in the main menu.")
+
+    full_menu = []
+    for item in items[:10]:
+        item_html = get_html(item["url"])
+        nutrition = parse_item_nutrtion(item_html)
+        full_menu.append({
+            "name": item["name"],
+            "url": item["url"],
+            "nutrition": nutrition
+        })
+        print(f"Processed item: {full_menu[-1]['name']} with nutrition: {nutrition}")
+    save_data(full_menu)
+
+if __name__ == "__main__":
+    run()

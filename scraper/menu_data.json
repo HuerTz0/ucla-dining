@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Bruin Scramble (Vegetarian)",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2073",
+    "nutrition": {
+      "calories": 162,
+      "protein": 8.86
+    }
+  },
+  {
+    "name": "Freshly Bowled Special",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=5951",
+    "nutrition": {
+      "calories": 0,
+      "protein": 0.0
+    }
+  },
+  {
+    "name": "Scrambled Eggs",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=506",
+    "nutrition": {
+      "calories": 156,
+      "protein": 11.19
+    }
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=989",
+    "nutrition": {
+      "calories": 66,
+      "protein": 9.25
+    }
+  },
+  {
+    "name": "Vegan Scrambled Eggs",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3003",
+    "nutrition": {
+      "calories": 173,
+      "protein": 10.29
+    }
+  },
+  {
+    "name": "Bacon",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1769",
+    "nutrition": {
+      "calories": 62,
+      "protein": 1.87
+    }
+  },
+  {
+    "name": "Pork Sausage",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6586",
+    "nutrition": {
+      "calories": 289,
+      "protein": 7.84
+    }
+  },
+  {
+    "name": "Breakfast Hash Brown",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2016",
+    "nutrition": {
+      "calories": 121,
+      "protein": 1.62
+    }
+  },
+  {
+    "name": "Biscuits",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6069",
+    "nutrition": {
+      "calories": 220,
+      "protein": 3.98
+    }
+  },
+  {
+    "name": "Country Gravy",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2589",
+    "nutrition": {
+      "calories": 35,
+      "protein": 0.0
+    }
+  }
+]

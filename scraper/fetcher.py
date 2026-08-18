@@ -6,6 +6,6 @@ def get_html(url):
         response = requests.get(url, headers=HEADERS, timeout=10)
         response.raise_for_status()
         return response.text
-    except requests.RequestsException as e:
+    except requests.RequestException as e:
         print(f"[Error] Failed to fetch {url}: {e}")
         return None
