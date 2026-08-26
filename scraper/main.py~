@@ -11,7 +11,7 @@ def run():
     print(f"Found {len(items)} items in the main menu.")
 
     full_menu = []
-    for item in items[:10]:
+    for item in items:
         item_html = get_html(item["url"])
         nutrition = parse_item_nutrtion(item_html)
         full_menu.append({
