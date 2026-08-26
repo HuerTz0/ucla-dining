@@ -1,73 +1,52 @@
 import React, { useState, useEffect } from 'react';
 
 export default function MealPlanner() {
-  // 1. STATE MANAGEMENT
-  // Stores the full list of menu items fetched from your scraper's JSON output
   const [menuItems, setMenuItems] = useState([]);
-
-  // Stores the unique IDs (URLs) of items the user has checked.
-  // Using a Set makes adding, removing, and checking items extremely fast.
   const [selectedIds, setSelectedIds] = useState(new Set());
-
-  // Stores the currently selected location tab ('All', 'Bruin Plate', etc.)
   const [selectedLocation, setSelectedLocation] = useState('All');
-
-
-  // 2. DATA FETCHING
-  // useEffect runs once when the app component first loads on the screen
   useEffect(() => {
-    // Fetch the scraped menu JSON file (from your backend server or local public folder)
     fetch('/menu_data.json')
-      .then((res) => res.json()) // Parse the raw response into a JavaScript object/array
-      .then((data) => setMenuItems(data)) // Save the scraped array into 'menuItems' state
-      .catch((err) => console.error("Error loading menu:", err)); // Log errors if fetch fails
-  }, []); // Empty array [] means this effect only runs once on startup
+      .then((res) => res.json()) 
+      .then((data) => setMenuItems(data)) 
+      .catch((err) => console.error("Error loading menu:", err)); 
+  }, []); 
 
-
-  // 3. HANDLER FUNCTIONS
-  // Adds or removes an item from the user's selected list when clicked
   const toggleItem = (url) => {
     setSelectedIds((prevSet) => {
-      // Create a fresh copy of the Set (React requires new objects to trigger UI updates)
       const nextSet = new Set(prevSet);
 
       if (nextSet.has(url)) {
-        nextSet.delete(url); // If already checked, uncheck it
+        nextSet.delete(url); 
       } else {
-        nextSet.add(url);    // If not checked, add it to selected items
+        nextSet.add(url);    
       }
 
-      return nextSet; // Update state with the new Set
+      return nextSet; 
     });
   };
 
-
-  // 4. DERIVED DATA & CALCULATIONS (Recalculates automatically on state change)
-  
-  // Array.prototype.reduce loops over only the items that match IDs inside 'selectedIds'
-  // and accumulates a running sum of calories and protein
   const totals = menuItems
     .filter((item) => selectedIds.has(item.url)) // Keep only checked items
     .reduce(
       (accumulator, item) => ({
-        // Safely add calories (defaults to 0 if missing)
+     
         calories: accumulator.calories + (item.nutrition?.calories || 0),
-        // Safely add protein (defaults to 0 if missing)
+      
         protein: accumulator.protein + (item.nutrition?.protein || 0),
       }),
-      { calories: 0, protein: 0 } // Initial values for the accumulator
+      { calories: 0, protein: 0 } 
     );
 
-  // Dynamically extract unique location names for the filter tabs (e.g., ['All', 'Epicuria', 'De Neve'])
+ 
   const locations = ['All', ...new Set(menuItems.map((item) => item.location))];
 
-  // Filter items based on which dining hall tab the user currently has selected
+  
   const displayedItems = selectedLocation === 'All' 
     ? menuItems 
     : menuItems.filter((item) => item.location === selectedLocation);
 
 
-  // 5. JSX / UI RENDERING
+ 
   return (
     <div style={styles.container}>
       
