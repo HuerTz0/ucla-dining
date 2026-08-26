@@ -16,7 +16,6 @@ def run():
         nutrition = parse_item_nutrtion(item_html)
         full_menu.append({
             "name": item["name"],
-            "location": item["location"],
             "url": item["url"],
             "nutrition": nutrition
         })
