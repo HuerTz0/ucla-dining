@@ -1,11 +1,11 @@
 [
   {
-    "name": "Huevos Rancheros",
+    "name": "Imogene's Black Bean & Potato Saute",
     "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7109",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9066",
     "nutrition": {
-      "calories": 244,
-      "protein": 8.62
+      "calories": 473,
+      "protein": 18.55
     }
   },
   {
@@ -15,15 +15,6 @@
     "nutrition": {
       "calories": 157,
       "protein": 11.18
-    }
-  },
-  {
-    "name": "Scrambled Egg Whites",
-    "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9742",
-    "nutrition": {
-      "calories": 65,
-      "protein": 9.24
     }
   },
   {
@@ -45,12 +36,12 @@
     }
   },
   {
-    "name": "Kielbasa",
+    "name": "Bacon",
     "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3607",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1769",
     "nutrition": {
-      "calories": 160,
-      "protein": 6.95
+      "calories": 62,
+      "protein": 1.87
     }
   },
   {
@@ -60,6 +51,15 @@
     "nutrition": {
       "calories": 24,
       "protein": 1.93
+    }
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "location": "The Kitchen",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9742",
+    "nutrition": {
+      "calories": 65,
+      "protein": 9.24
     }
   },
   {
@@ -90,12 +90,12 @@
     }
   },
   {
-    "name": "The Griddler",
+    "name": "Smoked Salmon Egg Benedict",
     "location": "The Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3600",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1776",
     "nutrition": {
-      "calories": 279,
-      "protein": 14.08
+      "calories": 357,
+      "protein": 22.39
     }
   },
   {
@@ -117,12 +117,12 @@
     }
   },
   {
-    "name": "Grits",
+    "name": "Cream of Rice Cereal",
     "location": "Harvest Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3473",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7111",
     "nutrition": {
-      "calories": 90,
-      "protein": 2.07
+      "calories": 70,
+      "protein": 1.3
     }
   },
   {
@@ -270,12 +270,12 @@
     }
   },
   {
-    "name": "Protein Yeast Donut Original",
+    "name": "Chocolate Protein Donut",
     "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4781",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4250",
     "nutrition": {
-      "calories": 243,
-      "protein": 6.63
+      "calories": 11,
+      "protein": 0.02
     }
   },
   {
@@ -288,21 +288,21 @@
     }
   },
   {
-    "name": "Mini Apple Danish",
+    "name": "Chocolate Croissant",
     "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=254",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=258",
     "nutrition": {
-      "calories": 207,
-      "protein": 1.78
+      "calories": 147,
+      "protein": 3.37
     }
   },
   {
-    "name": "Pumpkin Muffin",
+    "name": "Cinnamon Streusel Coffee Cake",
     "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3542",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=257",
     "nutrition": {
-      "calories": 207,
-      "protein": 2.62
+      "calories": 264,
+      "protein": 3.64
     }
   },
   {
@@ -333,21 +333,21 @@
     }
   },
   {
-    "name": "Baked Potato, Spinach, Poached Egg, & Tomato Cruda",
+    "name": "Tri-Tip, Cardamom Brown Rice, & Poached Egg Bowl",
     "location": "Freshly Bowled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4318",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4121",
     "nutrition": {
-      "calories": 147,
-      "protein": 7.96
+      "calories": 438,
+      "protein": 16.91
     }
   },
   {
-    "name": "Mushroom Beef Ragout Bowl w/ Poached Egg",
+    "name": "Butternut Squash Scramble over Savory Grits & Black Beans",
     "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2170",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4392",
     "nutrition": {
-      "calories": 1232,
-      "protein": 11.1
+      "calories": 156,
+      "protein": 8.98
     }
   },
   {
@@ -396,21 +396,21 @@
     }
   },
   {
-    "name": "Oat & Whole Wheat Waffle",
+    "name": "Four Grain Waffles",
     "location": "Stone Fired",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=993",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3083",
     "nutrition": {
-      "calories": 178,
-      "protein": 6.7
+      "calories": 104,
+      "protein": 3.49
     }
   },
   {
-    "name": "Pomegranate & Date Compote",
+    "name": "Blueberry Compote",
     "location": "Stone Fired",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2917",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1205",
     "nutrition": {
-      "calories": 52,
-      "protein": 0.2
+      "calories": 31,
+      "protein": 0.07
     }
   },
   {
@@ -423,12 +423,12 @@
     }
   },
   {
-    "name": "French Toast Waffle w/ Cashew Cream & Raspberries",
+    "name": "Lemon Cream Cheese Pancake",
     "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3948",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=905",
     "nutrition": {
-      "calories": 155,
-      "protein": 4.89
+      "calories": 120,
+      "protein": 4.19
     }
   },
   {
@@ -513,21 +513,21 @@
     }
   },
   {
-    "name": "Peach Ginger Quickbread",
+    "name": "Lemon Poppy Bread",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=5529",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1392",
     "nutrition": {
-      "calories": 255,
-      "protein": 2.47
+      "calories": 209,
+      "protein": 2.99
     }
   },
   {
-    "name": "Coconut Pineapple Bread",
+    "name": "Dark Chocolate Loaf",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1400",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1263",
     "nutrition": {
-      "calories": 282,
-      "protein": 3.28
+      "calories": 256,
+      "protein": 3.54
     }
   },
   {
@@ -540,21 +540,21 @@
     }
   },
   {
-    "name": "Blueberry Compote",
+    "name": "Chocolate Peanut Butter",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1205",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3156",
     "nutrition": {
-      "calories": 31,
-      "protein": 0.07
+      "calories": 99,
+      "protein": 3.59
     }
   },
   {
-    "name": "Peanut Butter",
+    "name": "Chayote & Apple Butter",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2945",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3320",
     "nutrition": {
-      "calories": 91,
-      "protein": 3.81
+      "calories": 69,
+      "protein": 0.46
     }
   },
   {
@@ -585,12 +585,12 @@
     }
   },
   {
-    "name": "Peach Yogurt",
+    "name": "Strawberry Yogurt",
     "location": "Yogurt Bar",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6663",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6520",
     "nutrition": {
-      "calories": 25,
-      "protein": 2.07
+      "calories": 21,
+      "protein": 1.0
     }
   },
   {
@@ -612,11 +612,11 @@
     }
   },
   {
-    "name": "Lemon-Mint Water",
+    "name": "Pear Vanilla Water",
     "location": "Beverage Special",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3354",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3437",
     "nutrition": {
-      "calories": 3,
+      "calories": 13,
       "protein": 0.09
     }
   },
@@ -684,102 +684,84 @@
     }
   },
   {
-    "name": "Cream of Rice Cereal",
+    "name": "Malt-O-Meal",
     "location": "Cereal / Oatmeal",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6192",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3271",
     "nutrition": {
-      "calories": 75,
-      "protein": 1.38
+      "calories": 104,
+      "protein": 3.34
     }
   },
   {
-    "name": "Caribbean",
+    "name": "LA Street Food",
     "location": "Theme of the Day",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1250",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1230",
     "nutrition": {
       "calories": 0,
       "protein": 0.0
     }
   },
   {
-    "name": "Camarones Guisados",
+    "name": "Carne Asada Bowl",
     "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6267",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6269",
     "nutrition": {
-      "calories": 216,
-      "protein": 9.16
+      "calories": 410,
+      "protein": 24.57
     }
   },
   {
-    "name": "Steamed Rice",
+    "name": "Beyond Beef Bowl",
     "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7341",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6270",
     "nutrition": {
-      "calories": 318,
-      "protein": 6.37
+      "calories": 353,
+      "protein": 17.29
     }
   },
   {
-    "name": "Hearty Vegetable Stew",
-    "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6268",
-    "nutrition": {
-      "calories": 65,
-      "protein": 2.63
-    }
-  },
-  {
-    "name": "Oven Roasted Mojito Chicken",
+    "name": "Pork Carnitas Nachos w/ Monterrey Jack Cheese Sauce",
     "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3228",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3367",
     "nutrition": {
-      "calories": 368,
-      "protein": 26.64
+      "calories": 498,
+      "protein": 13.61
     }
   },
   {
-    "name": "Fried Yuca",
+    "name": "Guacamole Nachos",
     "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3233",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3403",
     "nutrition": {
-      "calories": 187,
-      "protein": 0.53
+      "calories": 509,
+      "protein": 13.9
     }
   },
   {
-    "name": "Cuban-Style Tofu Escabeche",
-    "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3245",
-    "nutrition": {
-      "calories": 98,
-      "protein": 3.57
-    }
-  },
-  {
-    "name": "Jerk Shrimp Pizza",
+    "name": "Flaming Hot Cheetos Pizza",
     "location": "The Pizzeria",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3359",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3426",
     "nutrition": {
-      "calories": 291,
-      "protein": 10.26
+      "calories": 346,
+      "protein": 7.9
     }
   },
   {
-    "name": "Cheese Pizza",
+    "name": "Pepper & Mushroom Pizza",
     "location": "The Pizzeria",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2370",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3821",
     "nutrition": {
-      "calories": 280,
-      "protein": 7.44
+      "calories": 283,
+      "protein": 7.63
     }
   },
   {
-    "name": "Pepperoni Pizza",
+    "name": "Jalape\u00f1o Popper Pizza",
     "location": "The Pizzeria",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3801",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3094",
     "nutrition": {
-      "calories": 324,
-      "protein": 8.98
+      "calories": 383,
+      "protein": 12.53
     }
   },
   {
@@ -810,21 +792,21 @@
     }
   },
   {
-    "name": "Turkey Bacon Avocado Burger",
+    "name": "Pastrami Burger",
     "location": "The Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7091",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2601",
     "nutrition": {
-      "calories": 643,
-      "protein": 30.3
+      "calories": 593,
+      "protein": 41.37
     }
   },
   {
-    "name": "Honey Habanero Pulled Pork Sandwich",
+    "name": "Baja Fish Sandwich",
     "location": "The Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7180",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10039",
     "nutrition": {
-      "calories": 389,
-      "protein": 15.87
+      "calories": 497,
+      "protein": 22.96
     }
   },
   {
@@ -837,84 +819,84 @@
     }
   },
   {
-    "name": "Sweet Potato Fries",
+    "name": "Curly Fries",
     "location": "The Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6931",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9043",
     "nutrition": {
-      "calories": 0,
-      "protein": 0.0
+      "calories": 214,
+      "protein": 2.66
     }
   },
   {
-    "name": "Spicy Caribbean Mahi Mahi",
+    "name": "BBQ Chipotle Chicken Thigh",
     "location": "Harvest Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9522",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6912",
     "nutrition": {
-      "calories": 195,
-      "protein": 18.18
+      "calories": 111,
+      "protein": 11.9
     }
   },
   {
-    "name": "Cilantro Rice",
+    "name": "Quinoa Pilaf",
     "location": "Harvest Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7327",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6915",
     "nutrition": {
-      "calories": 124,
-      "protein": 2.1
+      "calories": 229,
+      "protein": 8.64
     }
   },
   {
-    "name": "Cuban Black Beans",
+    "name": "Espinacas con Garbanzos",
     "location": "Harvest Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7344",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6785",
     "nutrition": {
-      "calories": 165,
-      "protein": 7.65
+      "calories": 101,
+      "protein": 3.9
     }
   },
   {
-    "name": "Rustic Sausage Potato Kale Soup",
+    "name": "Boston Clam Chowder",
     "location": "Harvest Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10041",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=108",
     "nutrition": {
-      "calories": 63,
-      "protein": 3.22
+      "calories": 158,
+      "protein": 6.9
     }
   },
   {
-    "name": "Potato Dumpling Soup",
+    "name": "Broccoli Cheddar Soup",
     "location": "Harvest Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10040",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=116",
     "nutrition": {
-      "calories": 149,
-      "protein": 3.11
+      "calories": 385,
+      "protein": 8.57
     }
   },
   {
-    "name": "Garlicky Green Beans",
+    "name": "Roasted Carrots",
     "location": "Seasonal Sides",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6904",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7339",
     "nutrition": {
-      "calories": 29,
-      "protein": 1.4
+      "calories": 69,
+      "protein": 1.01
     }
   },
   {
-    "name": "Roasted Carrots w/ Smoked Jalape\u00f1o Butter",
+    "name": "Roasted Broccoli w/ Garlic",
     "location": "Seasonal Sides",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3286",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7335",
     "nutrition": {
-      "calories": 132,
-      "protein": 0.85
+      "calories": 85,
+      "protein": 2.65
     }
   },
   {
-    "name": "Roasted Fingerling Potato",
+    "name": "Pan Roasted Mushrooms with Onions",
     "location": "Seasonal Sides",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7338",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6903",
     "nutrition": {
-      "calories": 25,
-      "protein": 0.6
+      "calories": 36,
+      "protein": 2.07
     }
   },
   {
@@ -981,57 +963,57 @@
     }
   },
   {
-    "name": "Pumpkin Cheesecake",
+    "name": "Twinkie Cake",
     "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4899",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=248",
     "nutrition": {
-      "calories": 333,
-      "protein": 5.07
+      "calories": 321,
+      "protein": 2.89
     }
   },
   {
-    "name": "Old-Fashioned Oatmeal Raisin Cookie",
+    "name": "Sugar Cookies",
     "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=299",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=302",
     "nutrition": {
-      "calories": 152,
-      "protein": 2.11
+      "calories": 180,
+      "protein": 2.15
     }
   },
   {
-    "name": "Key Lime Pie",
+    "name": "Cherry Almond Crumble Pie",
     "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3964",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=307",
     "nutrition": {
-      "calories": 402,
+      "calories": 224,
+      "protein": 3.42
+    }
+  },
+  {
+    "name": "Almond Fudge Bar",
+    "location": "The Sweet Stop",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=312",
+    "nutrition": {
+      "calories": 268,
+      "protein": 4.21
+    }
+  },
+  {
+    "name": "Chocolate Cream Mousse",
+    "location": "The Sweet Stop",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4114",
+    "nutrition": {
+      "calories": 413,
+      "protein": 3.66
+    }
+  },
+  {
+    "name": "Chocolate Tres Leches Cake",
+    "location": "The Sweet Stop",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8570",
+    "nutrition": {
+      "calories": 459,
       "protein": 7.81
-    }
-  },
-  {
-    "name": "Chipmunk Bar",
-    "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3954",
-    "nutrition": {
-      "calories": 170,
-      "protein": 3.26
-    }
-  },
-  {
-    "name": "Blackberry Peach Crisp",
-    "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=237",
-    "nutrition": {
-      "calories": 111,
-      "protein": 1.67
-    }
-  },
-  {
-    "name": "Peach Cobbler",
-    "location": "The Sweet Stop",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4910",
-    "nutrition": {
-      "calories": 277,
-      "protein": 3.44
     }
   },
   {
@@ -1053,93 +1035,57 @@
     }
   },
   {
-    "name": "Creamy Tomato Basil Soup",
+    "name": "Seafood, Leek & Tomato Chowder",
     "location": "Soups",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=152",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=130",
     "nutrition": {
-      "calories": 133,
-      "protein": 1.85
+      "calories": 80,
+      "protein": 9.96
     }
   },
   {
-    "name": "Grilled Chicken Pasta w/ Almond Tahini Sauce",
+    "name": "Potato Dumpling Soup",
+    "location": "Soups",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10040",
+    "nutrition": {
+      "calories": 149,
+      "protein": 3.11
+    }
+  },
+  {
+    "name": "Chicken, Sweet Potato, Cauliflower Over Wheatberry Bowl",
     "location": "Freshly Bowled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4086",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4383",
     "nutrition": {
-      "calories": 194,
-      "protein": 13.15
+      "calories": 199,
+      "protein": 14.27
     }
   },
   {
-    "name": "Creamy Mushroom Pasta",
+    "name": "Green Bean, Quinoa, & Kabocha Squash Salad",
     "location": "Freshly Bowled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4288",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=936",
     "nutrition": {
-      "calories": 123,
-      "protein": 7.11
+      "calories": 105,
+      "protein": 3.16
     }
   },
   {
-    "name": "Mediterranean Tomato Salsa",
+    "name": "Albacore Tuna, Beet, Roasted Potato, & Egg Salad",
     "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1216",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3513",
     "nutrition": {
-      "calories": 63,
-      "protein": 0.65
+      "calories": 198,
+      "protein": 6.76
     }
   },
   {
-    "name": "Baba Ghanoush",
+    "name": "Spinach, Arugula, & White Bean Guacamole Wrap",
     "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4416",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2102",
     "nutrition": {
-      "calories": 71,
-      "protein": 2.1
-    }
-  },
-  {
-    "name": "Olive Tapenade",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2446",
-    "nutrition": {
-      "calories": 167,
-      "protein": 0.26
-    }
-  },
-  {
-    "name": "Broccoli Edamame Guacamole",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3777",
-    "nutrition": {
-      "calories": 63,
-      "protein": 2.27
-    }
-  },
-  {
-    "name": "Cashew-Mushroom Spread",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4418",
-    "nutrition": {
-      "calories": 82,
-      "protein": 1.99
-    }
-  },
-  {
-    "name": "Rosemary, Fennel & White Bean Spread",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4420",
-    "nutrition": {
-      "calories": 60,
-      "protein": 1.49
-    }
-  },
-  {
-    "name": "Flatbread Sticks",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=954",
-    "nutrition": {
-      "calories": 52,
-      "protein": 1.49
+      "calories": 199,
+      "protein": 5.74
     }
   },
   {
@@ -1152,93 +1098,84 @@
     }
   },
   {
-    "name": "Brown Calrose Rice",
+    "name": "Brown Jasmine Rice",
     "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=956",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=908",
     "nutrition": {
-      "calories": 105,
-      "protein": 2.16
+      "calories": 209,
+      "protein": 4.28
     }
   },
   {
-    "name": "Mixed Grains--Farro, Wheatberry, & Brown Rice",
+    "name": "Roasted Gold & Red Beets",
     "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1174",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=890",
     "nutrition": {
-      "calories": 93,
-      "protein": 3.08
+      "calories": 221,
+      "protein": 1.62
     }
   },
   {
-    "name": "Roasted Butternut Squash",
+    "name": "Sauteed Kale",
     "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=957",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=985",
     "nutrition": {
-      "calories": 51,
-      "protein": 1.13
+      "calories": 239,
+      "protein": 2.57
     }
   },
   {
-    "name": "Saut\u00e9ed Spinach",
-    "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1069",
-    "nutrition": {
-      "calories": 144,
-      "protein": 1.58
-    }
-  },
-  {
-    "name": "Tri-Tip, Arugula, & Parmesan Flatbread",
+    "name": "Cioppino Flatbread",
     "location": "Stone Fired",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=966",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2515",
     "nutrition": {
-      "calories": 151,
-      "protein": 7.63
+      "calories": 207,
+      "protein": 9.67
     }
   },
   {
-    "name": "Roasted Beet, Caramelized Onion & Blue Cheese Pizza",
+    "name": "Farro, White Bean, & Endive Flatbread",
     "location": "Stone Fired",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2111",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3563",
     "nutrition": {
-      "calories": 196,
-      "protein": 7.25
+      "calories": 111,
+      "protein": 3.65
     }
   },
   {
-    "name": "Italian Marinated Grilled Chicken Thigh",
+    "name": "Orange Chipotle Herb Marinated Grilled Chicken Thigh",
     "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2987",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3166",
     "nutrition": {
-      "calories": 80,
-      "protein": 7.64
+      "calories": 57,
+      "protein": 7.7
     }
   },
   {
-    "name": "Red Quinoa & Sweet Potato Patty",
+    "name": "Mixed Grain Pita",
     "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2230",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3193",
     "nutrition": {
-      "calories": 75,
-      "protein": 1.85
+      "calories": 120,
+      "protein": 4.52
     }
   },
   {
-    "name": "Roasted Potatoes & Fennel",
+    "name": "Baked Yam Slices",
     "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1072",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4389",
     "nutrition": {
-      "calories": 127,
-      "protein": 1.6
+      "calories": 78,
+      "protein": 0.84
     }
   },
   {
-    "name": "Fudgy Brownie",
+    "name": "Apricot Almond Bar",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=821",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1417",
     "nutrition": {
-      "calories": 196,
-      "protein": 2.79
+      "calories": 126,
+      "protein": 2.55
     }
   },
   {
@@ -1251,12 +1188,12 @@
     }
   },
   {
-    "name": "Apple Cranberry Compote",
+    "name": "Blueberry & Roasted Red Grape Marmalade",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2295",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=904",
     "nutrition": {
-      "calories": 30,
-      "protein": 0.18
+      "calories": 39,
+      "protein": 0.2
     }
   },
   {
@@ -1275,15 +1212,6 @@
     "nutrition": {
       "calories": 23,
       "protein": 3.24
-    }
-  },
-  {
-    "name": "Orange Strawberry Water",
-    "location": "Beverage Special",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3745",
-    "nutrition": {
-      "calories": 15,
-      "protein": 0.29
     }
   },
   {
@@ -1377,6 +1305,15 @@
     }
   },
   {
+    "name": "Roasted Butternut Squash",
+    "location": "Greens 'N More",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=957",
+    "nutrition": {
+      "calories": 51,
+      "protein": 1.13
+    }
+  },
+  {
     "name": "Oven Roasted Red Beets",
     "location": "Greens 'N More",
     "url": "https://menu.dining.ucla.edu/menu-item/?recipe=886",
@@ -1413,111 +1350,111 @@
     }
   },
   {
-    "name": "Cavatappi Pasta",
+    "name": "Rigatoni Noodles",
     "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2564",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2877",
     "nutrition": {
-      "calories": 319,
-      "protein": 10.49
+      "calories": 206,
+      "protein": 6.99
     }
   },
   {
-    "name": "Shrimp",
+    "name": "Chicken",
     "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3730",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1341",
     "nutrition": {
-      "calories": 23,
-      "protein": 4.31
+      "calories": 769,
+      "protein": 118.98
     }
   },
   {
-    "name": "Cannellini Beans",
+    "name": "BC Roasted Chick Peas",
     "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6208",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=5142",
     "nutrition": {
-      "calories": 24,
+      "calories": 45,
+      "protein": 2.02
+    }
+  },
+  {
+    "name": "Pomodoro",
+    "location": "Capri",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1525",
+    "nutrition": {
+      "calories": 130,
+      "protein": 0.9
+    }
+  },
+  {
+    "name": "Four Cheese Sauce",
+    "location": "Capri",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6839",
+    "nutrition": {
+      "calories": 321,
+      "protein": 7.78
+    }
+  },
+  {
+    "name": "Green Pea",
+    "location": "Capri",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6618",
+    "nutrition": {
+      "calories": 22,
       "protein": 1.47
     }
   },
   {
-    "name": "Arrabbiata Sauce",
+    "name": "Roasted Garlic Tomatoes",
     "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6173",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6272",
     "nutrition": {
-      "calories": 59,
-      "protein": 1.29
+      "calories": 55,
+      "protein": 0.71
     }
   },
   {
-    "name": "Alfredo Sauce",
-    "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6596",
-    "nutrition": {
-      "calories": 76,
-      "protein": 1.08
-    }
-  },
-  {
-    "name": "Sauteed Onions & Peppers",
-    "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2164",
-    "nutrition": {
-      "calories": 39,
-      "protein": 0.54
-    }
-  },
-  {
-    "name": "Roasted Eggplant",
-    "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1180",
-    "nutrition": {
-      "calories": 52,
-      "protein": 0.78
-    }
-  },
-  {
-    "name": "Turkish Wings",
+    "name": "Beef Lavash",
     "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2117",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4248",
     "nutrition": {
-      "calories": 181,
-      "protein": 12.57
+      "calories": 386,
+      "protein": 39.02
     }
   },
   {
-    "name": "Tabouli Vegetable Lavash",
+    "name": "Mixed Vegetable Fritto",
     "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6378",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8502",
     "nutrition": {
-      "calories": 309,
-      "protein": 8.9
+      "calories": 80,
+      "protein": 5.01
     }
   },
   {
-    "name": "Stewed Cannellini Beans",
+    "name": "Greek Lemon Herb Potatoes",
     "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6494",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=907",
     "nutrition": {
-      "calories": 71,
-      "protein": 2.57
+      "calories": 63,
+      "protein": 1.49
     }
   },
   {
-    "name": "Roasted Zucchini",
+    "name": "Pan Roasted Brussels Sprouts",
     "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7934",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3586",
     "nutrition": {
-      "calories": 25,
-      "protein": 1.53
+      "calories": 28,
+      "protein": 1.21
     }
   },
   {
-    "name": "Green Beans & Mushrooms",
+    "name": "Roasted Cumin & Coriander Carrots",
     "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3725",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3537",
     "nutrition": {
-      "calories": 27,
-      "protein": 1.06
+      "calories": 92,
+      "protein": 0.18
     }
   },
   {
@@ -1557,48 +1494,48 @@
     }
   },
   {
-    "name": "Spanish Pork Chop",
+    "name": "Spanish Style Trout",
     "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8082",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2059",
     "nutrition": {
-      "calories": 106,
-      "protein": 0.36
+      "calories": 73,
+      "protein": 10.85
     }
   },
   {
-    "name": "Herbed Rice Pilaf",
+    "name": "Spinach & Roasted Pepper Bulgur Wheat",
     "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1694",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1639",
     "nutrition": {
-      "calories": 177,
-      "protein": 3.53
+      "calories": 167,
+      "protein": 6.42
     }
   },
   {
-    "name": "Espinacas con Garbanzos",
+    "name": "Artichokes",
     "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3442",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6811",
     "nutrition": {
-      "calories": 112,
-      "protein": 4.0
+      "calories": 113,
+      "protein": 2.78
     }
   },
   {
-    "name": "Beef Barley Soup",
+    "name": "Chicken Noodle Soup",
     "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8581",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1606",
     "nutrition": {
-      "calories": 49,
-      "protein": 3.68
+      "calories": 438,
+      "protein": 14.12
     }
   },
   {
-    "name": "Garden Vegetable Soup",
+    "name": "Creamy Tomato Basil Soup",
     "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=753",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=152",
     "nutrition": {
-      "calories": 34,
-      "protein": 1.29
+      "calories": 133,
+      "protein": 1.85
     }
   },
   {
@@ -1617,6 +1554,15 @@
     "nutrition": {
       "calories": 162,
       "protein": 2.31
+    }
+  },
+  {
+    "name": "Old-Fashioned Oatmeal Raisin Cookie",
+    "location": "Dolce",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=299",
+    "nutrition": {
+      "calories": 152,
+      "protein": 2.11
     }
   },
   {
@@ -1872,12 +1818,12 @@
     }
   },
   {
-    "name": "Margherita Pizza",
+    "name": "Carbonara Pizza",
     "location": "Capri Pizza",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=5970",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1836",
     "nutrition": {
-      "calories": 201,
-      "protein": 7.47
+      "calories": 787,
+      "protein": 9.82
     }
   },
   {
@@ -1908,48 +1854,48 @@
     }
   },
   {
-    "name": "Korean Braised Short Ribs",
+    "name": "Japanese Beef Bowl",
     "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6650",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9468",
     "nutrition": {
-      "calories": 301,
-      "protein": 21.92
+      "calories": 363,
+      "protein": 14.43
     }
   },
   {
-    "name": "Korean Crispy Tofu Bowl",
+    "name": "Teriyaki Tofu Bowl",
     "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4097",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7454",
     "nutrition": {
-      "calories": 185,
-      "protein": 10.08
+      "calories": 1097,
+      "protein": 35.62
     }
   },
   {
-    "name": "Fish Cake",
+    "name": "Chicken Potsticker",
     "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6651",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2491",
     "nutrition": {
-      "calories": 249,
-      "protein": 20.42
+      "calories": 30,
+      "protein": 1.73
     }
   },
   {
-    "name": "Vegetable Dumplings",
+    "name": "Vegetable Potstickers",
     "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1568",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=5922",
     "nutrition": {
-      "calories": 136,
-      "protein": 4.66
+      "calories": 171,
+      "protein": 7.97
     }
   },
   {
-    "name": "Sticky Rice",
-    "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7743",
+    "name": "Chicken Tikka Flatbread",
+    "location": "Stone Oven",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10370",
     "nutrition": {
-      "calories": 647,
-      "protein": 13.29
+      "calories": 1002,
+      "protein": 42.32
     }
   },
   {
@@ -1962,48 +1908,30 @@
     }
   },
   {
-    "name": "Korean Gochujang Chicken Flatbread",
-    "location": "Stone Oven",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10542",
-    "nutrition": {
-      "calories": 209,
-      "protein": 6.94
-    }
-  },
-  {
-    "name": "Mozzarella & Fishcake Corn Dog",
+    "name": "Grilled Kalbi Beef Burger",
     "location": "Iron Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8815",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4903",
     "nutrition": {
-      "calories": 1036,
-      "protein": 15.25
+      "calories": 422,
+      "protein": 30.02
     }
   },
   {
-    "name": "Potato & Mozzarella Corndog",
+    "name": "Korean Garlic Fries",
     "location": "Iron Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8813",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4897",
     "nutrition": {
-      "calories": 1073,
-      "protein": 15.73
+      "calories": 42,
+      "protein": 0.26
     }
   },
   {
-    "name": "Battered Pickle Chips",
-    "location": "Iron Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8816",
-    "nutrition": {
-      "calories": 2292,
-      "protein": 2.16
-    }
-  },
-  {
-    "name": "Mango Sago w/ Peaches",
+    "name": "Coconut Matcha Cream Roll",
     "location": "Sweets Station",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10401",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=10394",
     "nutrition": {
-      "calories": 278,
-      "protein": 5.66
+      "calories": 511,
+      "protein": 12.57
     }
   },
   {
@@ -2079,62 +2007,17 @@
     }
   },
   {
-    "name": "Mojo Pork Tenderloin",
+    "name": "Cochinita Pibil Tacos",
     "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8861",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6492",
     "nutrition": {
-      "calories": 93,
-      "protein": 11.82
-    }
-  },
-  {
-    "name": "Garlic Flavored Rice",
-    "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7333",
-    "nutrition": {
-      "calories": 107,
-      "protein": 1.84
-    }
-  },
-  {
-    "name": "Coconut Crusted Tofu",
-    "location": "The Front Burner",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7303",
-    "nutrition": {
-      "calories": 378,
-      "protein": 10.68
-    }
-  },
-  {
-    "name": "Jerk Chicken",
-    "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1307",
-    "nutrition": {
-      "calories": 248,
-      "protein": 21.25
-    }
-  },
-  {
-    "name": "Beyond Chicken Tenders",
-    "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6188",
-    "nutrition": {
-      "calories": 303,
-      "protein": 18.45
-    }
-  },
-  {
-    "name": "Roasted Plantains",
-    "location": "The Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8663",
-    "nutrition": {
-      "calories": 98,
-      "protein": 0.71
+      "calories": 245,
+      "protein": 20.35
     }
   },
   {
     "name": "Habanero Pickled Red Onions",
-    "location": "The Kitchen",
+    "location": "The Front Burner",
     "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6369",
     "nutrition": {
       "calories": 159,
@@ -2142,120 +2025,156 @@
     }
   },
   {
-    "name": "Romesco Cod w/ Saffron & Green Chickpea Risotto",
+    "name": "Al Pastor-Style Mushroom Taco (Taco de Hongos)",
+    "location": "The Front Burner",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3042",
+    "nutrition": {
+      "calories": 141,
+      "protein": 3.48
+    }
+  },
+  {
+    "name": "Tuna Poke Tostada",
+    "location": "The Kitchen",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9048",
+    "nutrition": {
+      "calories": 169,
+      "protein": 13.56
+    }
+  },
+  {
+    "name": "Beet Poke Tostada",
+    "location": "The Kitchen",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9049",
+    "nutrition": {
+      "calories": 139,
+      "protein": 3.4
+    }
+  },
+  {
+    "name": "Spicy Mayo Sauce",
+    "location": "The Kitchen",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2442",
+    "nutrition": {
+      "calories": 202,
+      "protein": 0.49
+    }
+  },
+  {
+    "name": "Pebre-Marinated Flank Steak & Guacamole Bowl",
     "location": "Freshly Bowled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4406",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=923",
+    "nutrition": {
+      "calories": 276,
+      "protein": 16.1
+    }
+  },
+  {
+    "name": "Chayote Squash, Heirloom Bean Stew, & Kale Bowl",
+    "location": "Freshly Bowled",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3173",
+    "nutrition": {
+      "calories": 196,
+      "protein": 5.02
+    }
+  },
+  {
+    "name": "Butternut Squash Wild Rice W/ Scallops",
+    "location": "Harvest",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=8086",
+    "nutrition": {
+      "calories": 167,
+      "protein": 10.18
+    }
+  },
+  {
+    "name": "Tempeh Enchilada",
+    "location": "Harvest",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3907",
+    "nutrition": {
+      "calories": 234,
+      "protein": 15.08
+    }
+  },
+  {
+    "name": "Brown Calrose Rice",
+    "location": "Farmstand",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=956",
+    "nutrition": {
+      "calories": 105,
+      "protein": 2.16
+    }
+  },
+  {
+    "name": "Wheat Berry",
+    "location": "Farmstand",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=902",
+    "nutrition": {
+      "calories": 93,
+      "protein": 3.58
+    }
+  },
+  {
+    "name": "Black Eyed Peas & Collard Greens",
+    "location": "Farmstand",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1971",
+    "nutrition": {
+      "calories": 66,
+      "protein": 1.29
+    }
+  },
+  {
+    "name": "Cajun Shrimp Flatbread w/ BBQ Sauce",
+    "location": "Stone Fired",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3240",
+    "nutrition": {
+      "calories": 146,
+      "protein": 7.54
+    }
+  },
+  {
+    "name": "BBQ Tofu Flatbread",
+    "location": "Stone Fired",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3246",
+    "nutrition": {
+      "calories": 159,
+      "protein": 6.57
+    }
+  },
+  {
+    "name": "Halal Garlic Chicken Thigh",
+    "location": "Simply Grilled",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7590",
+    "nutrition": {
+      "calories": 80,
+      "protein": 7.9
+    }
+  },
+  {
+    "name": "Santa Maria Rubbed Grilled Tofu",
+    "location": "Simply Grilled",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2675",
+    "nutrition": {
+      "calories": 69,
+      "protein": 6.04
+    }
+  },
+  {
+    "name": "Roasted Potatoes & Fennel",
+    "location": "Simply Grilled",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1072",
     "nutrition": {
       "calories": 127,
-      "protein": 9.78
+      "protein": 1.6
     }
   },
   {
-    "name": "Lentil Bolognese w/ Whole Wheat Rotini",
-    "location": "Freshly Bowled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=979",
-    "nutrition": {
-      "calories": 298,
-      "protein": 7.7
-    }
-  },
-  {
-    "name": "Sweet Pepper & Steak Salad",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4180",
-    "nutrition": {
-      "calories": 73,
-      "protein": 6.94
-    }
-  },
-  {
-    "name": "Heirloom Bean Stew",
-    "location": "Harvest",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3172",
-    "nutrition": {
-      "calories": 148,
-      "protein": 3.16
-    }
-  },
-  {
-    "name": "Mixed Grains -- Lentil, Chickpea, Quinoa & Brown Rice",
-    "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3994",
-    "nutrition": {
-      "calories": 114,
-      "protein": 5.01
-    }
-  },
-  {
-    "name": "Garlicky Green Beans",
-    "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1196",
-    "nutrition": {
-      "calories": 55,
-      "protein": 1.4
-    }
-  },
-  {
-    "name": "Garlic Bok Choy",
-    "location": "Farmstand",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4323",
-    "nutrition": {
-      "calories": 20,
-      "protein": 1.41
-    }
-  },
-  {
-    "name": "Cilantro Pesto w/ Tri-Tip Tortilla Pizza",
-    "location": "Stone Fired",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2435",
-    "nutrition": {
-      "calories": 568,
-      "protein": 5.76
-    }
-  },
-  {
-    "name": "Southwest Black Bean & Avocado Tortilla Pizza",
-    "location": "Stone Fired",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2947",
-    "nutrition": {
-      "calories": 225,
-      "protein": 2.84
-    }
-  },
-  {
-    "name": "Garlic Coriander Grilled Pork",
-    "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3056",
-    "nutrition": {
-      "calories": 52,
-      "protein": 9.56
-    }
-  },
-  {
-    "name": "Grilled Ginger Miso Tofu",
-    "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4020",
-    "nutrition": {
-      "calories": 127,
-      "protein": 6.54
-    }
-  },
-  {
-    "name": "Avocado-Stuffed Potato Skins",
-    "location": "Simply Grilled",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3863",
-    "nutrition": {
-      "calories": 117,
-      "protein": 2.66
-    }
-  },
-  {
-    "name": "Mignardise Gianduja Tart",
+    "name": "Red Velvet Torte w/ Champagne Mousse",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1195",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1241",
     "nutrition": {
-      "calories": 171,
-      "protein": 1.4
+      "calories": 410,
+      "protein": 4.51
     }
   },
   {
@@ -2268,255 +2187,129 @@
     }
   },
   {
-    "name": "Chocolate Peanut Butter",
+    "name": "Peanut Butter",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3156",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2945",
     "nutrition": {
-      "calories": 99,
-      "protein": 3.59
+      "calories": 91,
+      "protein": 3.81
     }
   },
   {
-    "name": "Pear Butter",
+    "name": "Kumquat Compote",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3055",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3464",
     "nutrition": {
       "calories": 44,
-      "protein": 0.12
+      "protein": 0.41
     }
   },
   {
-    "name": "Roasted Beet & Grilled Pineapple Butter",
+    "name": "Pear-Date Compote",
     "location": "Sweet Bites",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3419",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2292",
     "nutrition": {
-      "calories": 142,
-      "protein": 0.82
+      "calories": 55,
+      "protein": 0.36
     }
   },
   {
-    "name": "Orange Hibiscus Water",
+    "name": "Cranberry Apple Water",
     "location": "Beverage Special",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3409",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3301",
     "nutrition": {
-      "calories": 2,
+      "calories": 19,
       "protein": 0.03
     }
   },
   {
-    "name": "Farfalle w/ Chicken in Pesto Cream Sauce",
-    "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3705",
-    "nutrition": {
-      "calories": 652,
-      "protein": 25.78
-    }
-  },
-  {
-    "name": "Fusilli w/ Peppers & Onions",
-    "location": "Capri",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2143",
-    "nutrition": {
-      "calories": 425,
-      "protein": 12.88
-    }
-  },
-  {
-    "name": "Rosemary Salmon",
-    "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3119",
-    "nutrition": {
-      "calories": 181,
-      "protein": 11.9
-    }
-  },
-  {
-    "name": "Cauliflower Fritter",
-    "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2192",
-    "nutrition": {
-      "calories": 48,
-      "protein": 2.85
-    }
-  },
-  {
-    "name": "Mint Couscous",
-    "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1402",
-    "nutrition": {
-      "calories": 89,
-      "protein": 3.02
-    }
-  },
-  {
-    "name": "Wild Mushroom Saute",
-    "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=3116",
-    "nutrition": {
-      "calories": 34,
-      "protein": 1.47
-    }
-  },
-  {
-    "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-    "location": "Psistaris",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1311",
-    "nutrition": {
-      "calories": 48,
-      "protein": 3.05
-    }
-  },
-  {
-    "name": "Rosemary Chicken Drumstick",
-    "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6608",
-    "nutrition": {
-      "calories": 365,
-      "protein": 19.27
-    }
-  },
-  {
-    "name": "Lemon Spinach Rice",
-    "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2688",
-    "nutrition": {
-      "calories": 217,
-      "protein": 4.37
-    }
-  },
-  {
-    "name": "Roasted Beets & Sweet Potatoes w/ Polenta",
-    "location": "Alimenti",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=891",
-    "nutrition": {
-      "calories": 386,
-      "protein": 11.57
-    }
-  },
-  {
-    "name": "Parsley Pesto",
-    "location": "Mezze",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6696",
-    "nutrition": {
-      "calories": 159,
-      "protein": 4.86
-    }
-  },
-  {
-    "name": "Rosemary Ham & Provoline Stromboli",
-    "location": "Capri Pizza",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6288",
-    "nutrition": {
-      "calories": 214,
-      "protein": 14.98
-    }
-  },
-  {
-    "name": "Pizza Dough",
-    "location": "..",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=311",
-    "nutrition": {
-      "calories": 1094,
-      "protein": 36.28
-    }
-  },
-  {
-    "name": "White Hoagie Torpedo Roll",
-    "location": "..",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=251",
-    "nutrition": {
-      "calories": 547,
-      "protein": 14.55
-    }
-  },
-  {
-    "name": "Panini Roll",
-    "location": "..",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=846",
-    "nutrition": {
-      "calories": 4255,
-      "protein": 137.74
-    }
-  },
-  {
-    "name": "Fluffy Potato Bun",
-    "location": "..",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=306",
-    "nutrition": {
-      "calories": 168,
-      "protein": 5.26
-    }
-  },
-  {
-    "name": "Marinated Shaking Beef",
+    "name": "Chinese Style Spare Ribs",
     "location": "Bruin Wok",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7461",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4000",
     "nutrition": {
-      "calories": 4464,
-      "protein": 489.29
+      "calories": 298,
+      "protein": 13.27
     }
   },
   {
-    "name": "Fried Tofu with Vegan Sweet Chili Sauce",
+    "name": "Green Jade Delight",
     "location": "Bruin Wok",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4130",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9403",
     "nutrition": {
-      "calories": 440,
-      "protein": 8.4
+      "calories": 78,
+      "protein": 2.14
     }
   },
   {
-    "name": "Thai Sweet & Spicy Chicken Wing",
+    "name": "Spicy Chicken Booldak",
     "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7914",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9478",
     "nutrition": {
-      "calories": 477,
-      "protein": 24.02
+      "calories": 148,
+      "protein": 16.0
     }
   },
   {
-    "name": "Tofu in Red Curry Sauce",
+    "name": "Seared Tofu w/ Spicy Sauce",
     "location": "Spice Kitchen",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4207",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1484",
     "nutrition": {
-      "calories": 101,
-      "protein": 6.05
+      "calories": 226,
+      "protein": 10.49
     }
   },
   {
-    "name": "Banh Xeo (Pork and Shrimp Crepe)",
+    "name": "Sticky Rice",
+    "location": "Spice Kitchen",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=7743",
+    "nutrition": {
+      "calories": 647,
+      "protein": 13.29
+    }
+  },
+  {
+    "name": "Fried Chili Lamb Curry",
     "location": "Stone Oven",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9413",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2663",
     "nutrition": {
-      "calories": 111,
-      "protein": 7.92
+      "calories": 151,
+      "protein": 9.59
     }
   },
   {
-    "name": "Banh Xeo Crepe",
+    "name": "Red Lentil Daal",
     "location": "Stone Oven",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9453",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9476",
     "nutrition": {
-      "calories": 51,
-      "protein": 1.27
+      "calories": 273,
+      "protein": 15.19
     }
   },
   {
-    "name": "Thai BBQ Chicken Sandwich",
-    "location": "Iron Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9382",
+    "name": "Indian Cucumber Yogurt Dip w/ Herbs",
+    "location": "Stone Oven",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4655",
     "nutrition": {
-      "calories": 435,
-      "protein": 13.89
+      "calories": 44,
+      "protein": 3.03
     }
   },
   {
-    "name": "Thai Basil Tofu Sandwich",
+    "name": "Takoyaki",
     "location": "Iron Grill",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9311",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=1567",
     "nutrition": {
-      "calories": 471,
-      "protein": 13.21
+      "calories": 70,
+      "protein": 1.96
+    }
+  },
+  {
+    "name": "Korean Egg Sandwich",
+    "location": "Iron Grill",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9296",
+    "nutrition": {
+      "calories": 334,
+      "protein": 11.75
     }
   },
   {
@@ -2529,30 +2322,30 @@
     }
   },
   {
-    "name": "Pandan Chiffon Cupcake",
+    "name": "Butter Mochi",
     "location": "Sweets Station",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4008",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=2942",
     "nutrition": {
-      "calories": 416,
-      "protein": 5.25
+      "calories": 321,
+      "protein": 4.13
     }
   },
   {
-    "name": "Vietnamese Coffee Jello Cubes",
+    "name": "Indian Rice Pudding",
     "location": "Sweets Station",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4537",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4511",
     "nutrition": {
-      "calories": 88,
-      "protein": 3.22
+      "calories": 182,
+      "protein": 4.35
     }
   },
   {
-    "name": "Oreo Mousse",
+    "name": "Fudge Brownie",
     "location": "Sweets Station",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=4925",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=233",
     "nutrition": {
-      "calories": 424,
-      "protein": 2.54
+      "calories": 206,
+      "protein": 3.38
     }
   },
   {
@@ -2583,21 +2376,21 @@
     }
   },
   {
-    "name": "Thai Coconut Chicken Soup",
+    "name": "Seaweed Soup",
     "location": "Hot Food Bar",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9398",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9397",
     "nutrition": {
-      "calories": 39,
-      "protein": 3.97
+      "calories": 47,
+      "protein": 2.88
     }
   },
   {
-    "name": "Tomato Egg Drop Soup",
+    "name": "Miso Soup",
     "location": "Hot Food Bar",
-    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=9415",
+    "url": "https://menu.dining.ucla.edu/menu-item/?recipe=6135",
     "nutrition": {
-      "calories": 33,
-      "protein": 0.86
+      "calories": 41,
+      "protein": 2.86
     }
   },
   {
